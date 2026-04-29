@@ -11,6 +11,8 @@ Agentic Engineer — building AI tools & agents, sharing them with the world.
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Bruno](https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black)](#)
+[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
+[![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)](#)
 ---
 
 ## 🚀 Active Projects
