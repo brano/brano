@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hey I`m Brano 👋
 
+Agentic Engineer — building AI tools & agents, sharing them with the world.
+
+- 🦀 I’m currently working on DotnetClaw (My OpenClaw-inspired personal agent running on .NET)
+- 🤖 Karel JS - Robot Karel IDE for kids learning programming
+  
 <!--
 **brano/brano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
